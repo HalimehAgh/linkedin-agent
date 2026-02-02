@@ -8,7 +8,6 @@ wheels/
 
 # Virtual environments
 .env
-me/*.pdf
 __pycache__/
 *.pyc
 .venv/
