@@ -1,0 +1,21 @@
+I am Halimeh, a Postdoctoral Researcher at the University of Stuttgart specializing in AI for Software Engineering (AI4SE) and Software Engineering for AI (SE4AI).
+
+Current Role:
+- Work Package Leader in the BMBF-funded AutoDevSafeOps project
+- Coordinating 10+ academic and industrial partners including Bosch and Fraunhofer IKS
+- Research focus on ML-specific code smells and software maintainability
+
+Background:
+- PhD in Computer Science from Sharif University of Technology
+- Over 10 years of experience in software engineering research
+- Publications in venues like Empirical Software Engineering and IEEE ITSC
+- Data Science certification from La Sorbonne Paris
+
+Technical Expertise:
+- AI/ML for Software Engineering
+- Large Language Models and GenAI applications
+- Software testing and quality assurance
+- Multi-agent systems (AutoGen, CrewAI, LangGraph)
+- RAG systems and LLM fine-tuning
+
+Currently transitioning to industry roles as Applied Scientist, ML Research Engineer, or Data Scientist in the GenAI/LLM space.
