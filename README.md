@@ -1,3 +1,13 @@
+---
+title: LinkedIn AI Agent
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.44.0"
+app_file: app.py
+pinned: false
+---
 # LinkedIn AI Agent
 
 An AI chatbot that answers questions about my professional background using Llama 3.3 via Groq.
