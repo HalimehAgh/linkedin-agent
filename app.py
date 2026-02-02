@@ -213,4 +213,4 @@ if __name__ == "__main__":
         title="Chat with Halimeh - AI/ML Researcher",
         description="Ask me about my research, experience, and projects in AI for Software Engineering!"
     )
-    demo.launch()
+    demo.launch(share=False)
